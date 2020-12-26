@@ -4,4 +4,5 @@ Study Plan
 -english
   *listen
   *read
+-struktur data
 -materi dari sekolah
