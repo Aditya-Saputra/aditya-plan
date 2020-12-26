@@ -7,3 +7,4 @@ Study Plan
   *ngomong
 -struktur data
 -materi dari sekolah
+-js
