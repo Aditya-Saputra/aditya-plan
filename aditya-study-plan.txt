@@ -2,4 +2,6 @@ Study Plan
 
 -back-end
 -english
+  *listen
+  *read
 -materi dari sekolah
