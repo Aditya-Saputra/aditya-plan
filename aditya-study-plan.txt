@@ -5,6 +5,7 @@ Study Plan
   *listen
   *read
   *pronounce
+  *write
 -struktur data
 -materi dari sekolah
 -js
