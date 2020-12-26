@@ -1,6 +1,7 @@
 2021
 -roadmap back-end dev
 -clear ms
+-5 time
 -no cl
 -strong niat
 -berhenti ngehalu
