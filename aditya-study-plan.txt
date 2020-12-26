@@ -2,7 +2,8 @@ Study Plan
 
 -back-end
 -english
-  *listen
-  *read
+  *dengar
+  *moco
+  *ngomong
 -struktur data
 -materi dari sekolah
